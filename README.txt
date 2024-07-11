@@ -1,2 +1,3 @@
-hello this is a REDME.txt. There is no information now.
+hello this is a README.txt. There is no information now.
+
 
