@@ -1,3 +1,3 @@
-hello this is a README.txt. There is no information now.
+hello this is a README.txt. INFORMATION FOR SLAVE AND FOR MASTER.
 
 
